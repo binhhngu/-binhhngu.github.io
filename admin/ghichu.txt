@@ -1,0 +1,3 @@
+thongtin_lop.php
+hiển thị tên khóa học tên giảng viên
+làm trang sửa lớp học
